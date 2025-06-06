@@ -1,1 +1,1 @@
-# AE_UOOC
+# Autoencoder for UnderWater Optical Communications
